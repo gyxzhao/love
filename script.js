@@ -7,10 +7,10 @@ let clickCount = 0;  // 记录点击 No 的次数
 
 // No 按钮的文字变化
 const noTexts = [
-    "？？？kidding me？",  
+    "???kidding me?",  
     "啊？球球你了", 
     "别走好吗", 
-    "哭哭"，
+    "哭哭",
     "阿西吧",
 ];
 
